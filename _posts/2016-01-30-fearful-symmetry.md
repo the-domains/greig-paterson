@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-30T17:58:56.261Z'
-dateModified: '2016-01-30T17:58:54.569Z'
+datePublished: '2016-01-30T17:59:46.819Z'
+dateModified: '2016-01-30T17:59:44.861Z'
 title: ''
 author: []
 sourcePath: _posts/2016-01-30-fearful-symmetry.md
