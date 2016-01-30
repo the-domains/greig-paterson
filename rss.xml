@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[TITLE]]></title>
-        <description><![CDATA[TITLE]]></description>
+        <title><![CDATA[Greig Paterson]]></title>
+        <description><![CDATA[Greig Paterson]]></description>
         <link>https://thegrid.ai/greig-paterson/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 30 Jan 2016 11:48:45 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jan 2016 12:29:46 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/greig-paterson/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Locaton, Location]]></title>
+            <description><![CDATA[<article><h1>Locaton, Location</h1><p>Page</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c8ba163fb38550d9f4b902f173a7c8c93c04b575.jpg"></article>]]></description>
+            <link>https://thegrid.ai/greig-paterson/33a617dc-fea6-4a29-a90e-fc48473ce5b0/index.html</link>
+            <guid isPermaLink="false">33a617dc-fea6-4a29-a90e-fc48473ce5b0</guid>
+            <pubDate>Sat, 30 Jan 2016 12:29:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Brighton]]></title>
             <description><![CDATA[<article><h1>Brighton</h1><p>Testing</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b92254f98b8111b4c0fbd782fd62834a71741a66.jpg"></article>]]></description>
