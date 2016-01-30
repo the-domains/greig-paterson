@@ -3,11 +3,11 @@ inFeed: true
 hasPage: false
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-30T17:59:47.055Z'
-dateModified: '2016-01-30T17:59:44.861Z'
+datePublished: '2016-01-30T18:02:28.597Z'
+dateModified: '2016-01-30T18:01:59.336Z'
 title: ''
 author: []
 sourcePath: _posts/2016-01-30-fearful-symmetry.md
