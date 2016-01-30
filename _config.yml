@@ -1,6 +1,6 @@
 name: Greig Paterson
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 0.53673
 typography_spectrum: 0.48188
 collections:
   - index:
@@ -34,7 +34,7 @@ color:
     - '#9a9a9a'
     - '#000000'
     - '#6f6f6f'
-  brandStrength: 1
+  brandStrength: 0
   lightness: 1
   saturation: 1
   rhythmicContrast: 0
