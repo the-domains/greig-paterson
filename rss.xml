@@ -4,7 +4,7 @@
         <description><![CDATA[Greig Paterson]]></description>
         <link>https://thegrid.ai/greig-paterson/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 30 Jan 2016 17:09:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jan 2016 17:16:24 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/greig-paterson/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Burnt Pier [Brighton, England]]]></title>
@@ -14,11 +14,11 @@
             <pubDate>Sat, 30 Jan 2016 17:06:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Orbit [Olympic Park, London, England]]]></title>
-            <description><![CDATA[<article><h1>Orbit [Olympic Park, London, England]</h1><p>Description</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2b83a7f7b6f62898938f11176046764cc9c7858a.jpg"></article>]]></description>
-            <link>https://thegrid.ai/greig-paterson/c3501f4a-efa5-492b-98a5-9fa1d0bb6483/index.html</link>
+            <title><![CDATA[Orbit]]></title>
+            <description><![CDATA[<article><h1>Orbit</h1><p>London, England, 2012</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2b83a7f7b6f62898938f11176046764cc9c7858a.jpg"></article>]]></description>
+            <link>https://thegrid.ai/greig-paterson/orbit/index.html</link>
             <guid isPermaLink="false">c3501f4a-efa5-492b-98a5-9fa1d0bb6483</guid>
-            <pubDate>Sat, 30 Jan 2016 17:08:43 GMT</pubDate>
+            <pubDate>Sat, 30 Jan 2016 17:12:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
