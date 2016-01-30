@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-30T17:42:51.521Z'
+datePublished: '2016-01-30T17:42:51.598Z'
 dateModified: '2016-01-30T17:42:48.288Z'
 title: "Fearful Symmetry\_"
 author: []
