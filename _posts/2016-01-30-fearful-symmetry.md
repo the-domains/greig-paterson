@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-30T17:42:51.679Z'
-dateModified: '2016-01-30T17:42:48.288Z'
-title: "Fearful Symmetry\_"
+datePublished: '2016-01-30T17:58:56.157Z'
+dateModified: '2016-01-30T17:58:54.569Z'
+title: ''
 author: []
 sourcePath: _posts/2016-01-30-fearful-symmetry.md
 published: true
